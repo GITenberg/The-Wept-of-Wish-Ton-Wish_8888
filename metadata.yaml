@@ -1,0 +1,36 @@
+_repo: The-Wept-of-Wish-Ton-Wish_8888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Morgan, Jane
+    - Cooper, J. Fenimore (James Fenimore)
+    - Cooper, Fenimore
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: Set during King Philip's War, this novel takes place in the frontier
+  community of Wish-Ton-Wish. After many years of war between the natives and the
+  English settlers, a family is split between the two sides. The wept is a young girl,
+  Ruth Heathcote, who, abducted by Native Americans, grows to marry their leader,
+  Conanchet. Cooper contrasts the bloodthirsty piety of the Puritan preacher Meek
+  Wolfe with the nobility of Conanchet.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'War stories'
+- !lcsh 'King Philip''s War, 1675-1676 -- Fiction'
+- GITenberg
+title: The Wept of Wish-Ton-Wish
+url: http://www.gutenberg.org/ebooks/8888
