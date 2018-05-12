@@ -1,5 +1,8 @@
 _repo: The-Wept-of-Wish-Ton-Wish_8888
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -18,6 +21,8 @@ description: Set during King Philip's War, this novel takes place in the frontie
   Ruth Heathcote, who, abducted by Native Americans, grows to marry their leader,
   Conanchet. Cooper contrasts the bloodthirsty piety of the Puritan preacher Meek
   Wolfe with the nobility of Conanchet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8888#The-Wept-of-Wish-Ton-Wish
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
